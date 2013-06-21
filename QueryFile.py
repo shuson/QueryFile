@@ -5,7 +5,7 @@ import os, glob
 
 i = 0
 def QueryFile(fileName):
-  roots = []
+  	roots = []
 	dirs = []
 	subdirs=[]
 	files = []
